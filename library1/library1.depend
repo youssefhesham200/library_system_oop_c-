@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1606398313 source:e:\c++\library1\main.cpp
+	<iostream>
+	<User.h>
+	<Book.h>
+
+1606398374 source:e:\c++\library1\src\user.cpp
+	"User.h"
+	<iostream>
+
+1606398374 e:\c++\library1\include\user.h
+	<cstring>
+	<iostream>
+
+1606398441 source:e:\c++\library1\src\book.cpp
+	"Book.h"
+
+1606398441 e:\c++\library1\include\book.h
+	<iostream>
+	"User.h"
+
+1608766258 source:e:\c++\20190647_20190230\library1\main.cpp
+	<iostream>
+	<User.h>
+	<Book.h>
+	<UserList.h>
+	<BookList.h>
+
+1608478687 e:\c++\20190647_20190230\library1\include\user.h
+	<cstring>
+	<iostream>
+
+1608572798 e:\c++\20190647_20190230\library1\include\book.h
+	<iostream>
+	"User.h"
+
+1608572798 source:e:\c++\20190647_20190230\library1\src\book.cpp
+	"Book.h"
+
+1608561339 source:e:\c++\20190647_20190230\library1\src\user.cpp
+	"User.h"
+	<iostream>
+
+1608553149 source:e:\c++\20190647_20190230\library1\src\userlist.cpp
+	"UserList.h"
+
+1608469692 e:\c++\20190647_20190230\library1\include\userlist.h
+	<User.h>
+
+1608572713 source:e:\c++\20190647_20190230\library1\src\booklist.cpp
+	"BookList.h"
+
+1608567540 e:\c++\20190647_20190230\library1\include\booklist.h
+	<User.h>
+	<Book.h>
+
